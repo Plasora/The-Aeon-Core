@@ -6,7 +6,7 @@ The Æon Core condenses over a decade of frontier plasmonics research into a com
 
 ## 📄 Download the Overview (PDF)
 
-👉 **[Download The Æon Core™ Overview (PDF)](./The Æon Core™ Open Plasmonic Platform.pdf)**
+👉 **[Download The Æon Core™ Overview (PDF)](./aeon-core-overview.pdf)**
 
 *(3-page document — detection targets, supported modalities, performance advantages, and application domains)*
 
